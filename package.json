@@ -1,5 +1,5 @@
 {
-  "name": "typeahead.js",
+  "name": "@zfbase/typeahead.js",
   "description": "fast and fully-featured autocomplete library",
   "keywords": [
     "typeahead",
